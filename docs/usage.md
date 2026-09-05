@@ -1,3 +1,5 @@
+**中文** | [English](usage.en.md)
+
 # AppShelf 使用说明
 
 ## 安装预览版

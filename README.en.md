@@ -7,7 +7,7 @@ So I built a handy app shelf for Mac: pin your favorites, organize them your way
 
 AppShelf is a macOS application launcher. It scans the applications on your system and presents them in a clean grid — one click to open. It's made for people who have lots of apps and are tired of digging through the "Apps" panel.
 
-[Download](https://github.com/martinshd/AppShelf/releases) · [使用说明（中文）](docs/usage.md) · [Report an Issue](https://github.com/martinshd/AppShelf/issues)
+[Download](https://github.com/martinshd/AppShelf/releases) · [User Guide](docs/usage.en.md) · [Report an Issue](https://github.com/martinshd/AppShelf/issues)
 
 ![AppShelf interface (apps shown are fictional)](docs/images/en/overview.png)
 
